@@ -1,2 +1,2 @@
-# Matplotlib-K-t-phane--al-malar-
+# Matplotlib-Library-Studies
 Grafik Çizimleri
